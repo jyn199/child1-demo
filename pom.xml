@@ -10,7 +10,7 @@
 	
 	<groupId>com.jyn.child1-demo</groupId>
 	<artifactId>child1-demo</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>child1-demo Maven Webapp</name>
 	<url>http://maven.apache.org</url>
@@ -34,6 +34,7 @@
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
 		</dependency>
+		
 	</dependencies>
 	<build>
 		<finalName>child1-demo</finalName>
