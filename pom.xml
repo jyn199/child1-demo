@@ -10,7 +10,7 @@
 	
 	<groupId>com.jyn.child1-demo</groupId>
 	<artifactId>child1-demo</artifactId>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>child1-demo Maven Webapp</name>
 	<url>http://maven.apache.org</url>
